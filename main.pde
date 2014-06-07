@@ -19,8 +19,8 @@ void setup() {
   size(displayWidth, displayHeight, P3D);
   cursor(HAND);
   ds = new Deathstar();
-  data = loadJSONObject("data/json/gent/Overlijdens.json");
-  deaths = data.getJSONArray("Overlijdens");
+  // data = loadJSONObject("data/json/gent/Overlijdens.json");
+  // deaths = data.getJSONArray("Overlijdens");
   minim = new Minim(this);
   player = minim.loadFile("data/sounds/eerie.mp3");
   player.play();
