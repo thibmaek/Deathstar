@@ -18,3 +18,5 @@ Todo's
 * As for the current state of the project it's just a sphere rotating over certain axis'.
 * For test purposes the shapeshifting of the sphere has been mapped to the arrow keys.
 * JSON passing-trough is yet to be implemented
+
+![Screenshot](http://imgur.com/W9oiYOM.png)
